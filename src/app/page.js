@@ -15,7 +15,7 @@ export default function HomePage() {
 
       <ShowSchools />
 
-      <p className="my-3 font-mono text-center">Developed by Umendra Pardhi</p>
+      <p className="my-1 font-mono text-center fixed bottom-0 w-[100%]">Developed by Umendra Pardhi</p>
     </div>
   );
 }
